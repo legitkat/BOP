@@ -1,2 +1,2 @@
 # BOP
-Assignments by Seema Ma'am
+C programming Assignments by Seema Ma'am
