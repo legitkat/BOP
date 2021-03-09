@@ -18,6 +18,7 @@ int main(){
         scanf("%d", &array[i]);
     }
 
+    //added of the elements of the array
     for(int i = 0; i < size; i++)
         sum += array[i];
 
