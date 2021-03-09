@@ -14,7 +14,7 @@ int main(){
 
     //inputing the elements of the array
     for(int i = 0; i < size; i++){
-        printf("Enter the %dth term : ", i+1);
+        printf("Enter the term %d: ", i+1);
         scanf("%d", &array[i]);
     }
     
